@@ -25,4 +25,4 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         name: ff14-overlay-dist
-        path: dist\
+        path: ./dist/
